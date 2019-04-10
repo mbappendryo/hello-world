@@ -1,5 +1,4 @@
 # hello-world
-a simple repository 
 
 Hi, folk!
 
